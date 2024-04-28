@@ -2,8 +2,8 @@
 
 I created a responsive and dynamic dashboard with a summary page and a detailed page whcih shows key metrics such as average wait list for different age groups, monthly trends etc. For this project we used power BI to create the reports
 
-<img width="666" alt="Cmplete dashboard 2" src="https://github.com/NtwariMike/Healthcare-Waiting-List-Power-BI-project/assets/150134943/57c7e499-ff6e-4bc3-8ed6-343ca6c90ea1">
 <img width="670" alt="Complete dasnboard" src="https://github.com/NtwariMike/Healthcare-Waiting-List-Power-BI-project/assets/150134943/74967a7d-fefe-40ae-a4d6-69caf461692c">
+<img width="666" alt="Cmplete dashboard 2" src="https://github.com/NtwariMike/Healthcare-Waiting-List-Power-BI-project/assets/150134943/57c7e499-ff6e-4bc3-8ed6-343ca6c90ea1">
 
 ## 1.Requirement gathering
 ### Overall objectives
